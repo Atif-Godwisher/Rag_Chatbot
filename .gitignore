@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+chroma_db/
+tfidf_index.pkl
+__pycache__/
+*.pyc
+.env
